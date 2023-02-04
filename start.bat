@@ -1,3 +1,3 @@
-pip install -r requierments.txt
+pip install -r requirements.txt
 python chat.py
 pause
